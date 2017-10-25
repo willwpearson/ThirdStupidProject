@@ -49,5 +49,6 @@ public class StupidController
 			
 			System.out.println(numbers[index]);
 		}
+		
 	}
 }
